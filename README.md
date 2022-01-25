@@ -5,6 +5,12 @@ GATor is a Graph Attention Network for object detection with relational reasonin
 <img alt="florida-man-everyday-life" align="center" width="50%" src="https://user-images.githubusercontent.com/34657562/147384846-2baca0b2-c367-4c11-81b0-c9e47f814d87.gif" />
 </div>
 
+## Poster
+
+<p align="center">
+  <img src="/resources/poster.jpg">
+</p>
+
 ## Running the project
 
  * Run `pip install -r requirements.txt`
